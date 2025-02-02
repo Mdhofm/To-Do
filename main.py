@@ -46,38 +46,7 @@ while True:
             print("You entered an unknown command, try again.")
 
 
-    # if user_input == "add":
-    #     add = input("Please enter to do: ")
-    #     user_text.append(add)
-    #     print("Current to do list is:")
-    #     for text in user_text:
-    #         print(text)
-
-    # if user_input == "show":
-    #     if len(user_text) == 0:
-    #         print("List is empty!")
-    #     else:
-    #         print("Current to do list is:")
-    #         for text in user_text:
-    #             print(text)
-
-    # if user_input == "12345":
-    #     looping = False
-    #
-    #     if len(user_text) == 0:
-    #         print("The list is empty")
-    #     else:
-    #         print("final to do list is:")
-    #         for text in user_text:
-    #             print(text)
-
-    # if user_input == "remove":
-    #     remove = input("What to do would you like to remove?")
-    #     if remove in user_text:
-    #         user_text.remove(remove)
-    #         print("Removed", remove, "from to do list.")
-    #     else:
-    #         print("To do does not exist in list!")
+   
 
 
 
