@@ -40,7 +40,7 @@ while True:
                 print("final to do list is:")
                 for text in user_text:
                     print(text)
-                print("\nbye bitch")
+                print("\nbye!")
             break
         case whatever:
             print("You entered an unknown command, try again.")
